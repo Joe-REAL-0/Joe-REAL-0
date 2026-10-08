@@ -32,5 +32,5 @@
 <!-- 仅保留实际使用的技术。图标依赖 skillicons.dev；需要时可以改成纯文字。 -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,unity,godot,git,vscode&theme=dark" alt="Vue、Python、C#、Unity、Godot、Git、VS Code" />
+  <img src="https://skillicons.dev/icons?i=cs,unity,godot,git,vscode&theme=dark" alt="vue、py、C#、Unity、Godot、Git、VS Code" />
 </p>
