@@ -16,7 +16,7 @@
 
 喜欢开发和设计小工具，也做独立游戏。
 
-[Email](mailto:joe_real@qq.com) · [Email](mailto:joe_real@qq.com)
+[Email](mailto:joe_real@qq.com)
 
 ## 技术栈
 
