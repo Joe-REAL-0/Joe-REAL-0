@@ -18,10 +18,10 @@
 
 [Email](mailto:joe_real@qq.com) · [Email](mailto:joe_real@qq.com)
 
-##技术栈
+## 技术栈
 
 <p>
-  <img  src="https://skillicons.dev/icons?i=vue,py,css,html,ts,js,go,electron,recat,pytorch,java,cs,unity,godot,docker,mysql,postgres,sqlite,git,pycharm,idea,vscode&theme=dark&perline=6" alt="Vue、Python、C#、Unity、Godot、Git、VS Code" />
+  <img  src="https://skillicons.dev/icons?i=vue,py,css,html,ts,js,go,electron,pytorch,java,cs,unity,godot,docker,mysql,postgres,sqlite,git,pycharm,idea,vscode&theme=dark&perline=8" alt="Vue、Python、C#、Unity、Godot、Git、VS Code" />
 </p>
 
 </div>
