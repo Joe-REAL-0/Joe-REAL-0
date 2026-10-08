@@ -10,27 +10,18 @@
 
 <div align="center">
 
-# Hi, I'm Joey 👋
+# Hi, I'm Joe 👋
 
 **Developer · Game Maker**
 
-喜欢设计小工具，也做游戏。
+喜欢开发和设计小工具，也做独立游戏。
 
-[Email](mailto:joe_real@qq.com)
+[Email](mailto:joe_real@qq.com) · [Email](mailto:joe_real@qq.com)
+
+##技术栈
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,py,typesctipt,javascript,go,java,cs,unity,godot,git,vscode&theme=dark" alt="Vue、Python、C#、Unity、Godot、Git、VS Code" />
+</p>
 
 </div>
-
-## 💡 我感兴趣的事
-
-- **游戏开发** — Unity、Godot，以及从玩法原型到完整体验的过程。
-- **软件开发** — 实用工具、自动化，以及代码背后的工程问题。
-- **游戏设计** — 卡牌机制、系统之间的配合和有趣的策略空间。
-- **技术探索** — 想知道一个东西怎么工作，也喜欢亲手试一试。
-
-## 🧰 常用工具
-
-<!-- 仅保留实际使用的技术。图标依赖 skillicons.dev；需要时可以改成纯文字。 -->
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,unity,godot,git,vscode&theme=dark" alt="vue、py、C#、Unity、Godot、Git、VS Code" />
-</p>
