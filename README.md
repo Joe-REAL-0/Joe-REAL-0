@@ -19,8 +19,7 @@
 [Email](mailto:joe_real@qq.com)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Joe-REAL-0&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=prussian)](https://github-stats-extended.vercel.app/api?username=Joe-REAL-0&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=prussian)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Joe-REAL-0&layout=donut&langs_count=5&theme=prussian)](https://github-stats-extended.vercel.app/api/top-langs?username=Joe-REAL-0&layout=donut&langs_count=5&theme=prussian)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Joe-REAL-0&layout=compact&langs_count=6&theme=prussian)](https://github-stats-extended.vercel.app/api/top-langs?username=Joe-REAL-0&layout=compact&langs_count=6&theme=prussian)
 
 ## 技术栈
 
