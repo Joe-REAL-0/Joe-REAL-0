@@ -17,11 +17,13 @@
 喜欢开发和设计小工具，也做独立游戏。
 
 [Email](mailto:joe_real@qq.com)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Joe-REAL-0&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=prussian)](https://github-stats-extended.vercel.app/api?username=Joe-REAL-0&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=prussian)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Joe-REAL-0&layout=donut&langs_count=5&theme=prussian)](https://github-stats-extended.vercel.app/api/top-langs?username=Joe-REAL-0&layout=donut&langs_count=5&theme=prussian)
 
 ## 技术栈
 
 <p>
-  <img  src="https://skillicons.dev/icons?i=vue,py,css,html,ts,js,go,electron,pytorch,java,cs,unity,godot,docker,mysql,postgres,sqlite,git,pycharm,idea,vscode&theme=dark&perline=8" alt="Vue、Python、C#、Unity、Godot、Git、VS Code" />
+  <img  src="https://skillicons.dev/icons?i=vue,py,css,html,ts,js,go,electron,pytorch,java,cs,unity,godot,docker,mysql,postgres,sqlite,git,pycharm,idea,vscode&theme=dark&perline=7" alt="Vue、Python、C#、Unity、Godot、Git、VS Code" />
 </p>
 
 </div>
