@@ -14,8 +14,6 @@
 
 develop backend projects,also build indie games
 
-[Email](mailto:joe_real@qq.com)
-
 ## GitHub Stats
 
 <div>
