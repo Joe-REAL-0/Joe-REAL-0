@@ -12,18 +12,18 @@
 
 # Hi, I'm Joe 👋
 
-**Developer · Game Maker**
-
-喜欢开发和设计小工具，也做独立游戏。
+develop backend projects,also build indie games
 
 [Email](mailto:joe_real@qq.com)
+
+## GitHub Stats
 
 <div>
   <img src="https://github-stats-extended.vercel.app/api?username=Joe-REAL-0&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=prussian" height="150" alt="GitHub Stats"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Joe-REAL-0&layout=compact&langs_count=6&theme=prussian" height="150" alt="Top Langs"/>
 </div>
 
-## 技术栈
+## Tech Stack
 
 <p>
   <img  src="https://skillicons.dev/icons?i=vue,py,css,html,ts,js,go,electron,pytorch,java,cs,unity,godot,docker,mysql,postgres,sqlite,git,pycharm,idea,vscode&theme=dark&perline=7" alt="Vue、Python、C#、Unity、Godot、Git、VS Code" />
